@@ -10,11 +10,11 @@
  -  Кольский полуостров в сентябре - краше осени нет!
  -  Белые ночи - уснуть будет сложно!
   
-                                              
+ <kbd>                                             
 <img src="https://static.tildacdn.com/tild6166-6338-4062-b536-333432653234/i.jpg" width="200" height="200">
 
 <img src="http://i.mycdn.me/i?r=AzFIxPtkV78jcmdRfpoIOyaJZeowuqtABxERquk9f_rGUzO7EuABt8t6j6ROsg0SwU4" width="200" height="200">
-
+<kbd>
 
                                                           
                                           
