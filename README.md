@@ -10,18 +10,18 @@
  -  Кольский полуостров в сентябре - краше осени нет!
  -  Белые ночи - уснуть будет сложно!
   
- <kbd>                                             
-<img src="https://static.tildacdn.com/tild6166-6338-4062-b536-333432653234/i.jpg" width="200" height="200">
+ <p>                                           
+    <img src="https://static.tildacdn.com/tild6166-6338-4062-b536-333432653234/i.jpg" width="200" height="200">
 
-<img src="http://i.mycdn.me/i?r=AzFIxPtkV78jcmdRfpoIOyaJZeowuqtABxERquk9f_rGUzO7EuABt8t6j6ROsg0SwU4" width="200" height="200">
-<kbd>
+    <img src="http://i.mycdn.me/i?r=AzFIxPtkV78jcmdRfpoIOyaJZeowuqtABxERquk9f_rGUzO7EuABt8t6j6ROsg0SwU4" width="200" height="200">
+</p>
 
                                                           
-                                          
-<img src="https://cs.pikabu.ru/post_img/big/2013/07/13/7/1373712017_1656637261.jpg" width="200" height="200">
+ <p>                                         
+    <img src="https://cs.pikabu.ru/post_img/big/2013/07/13/7/1373712017_1656637261.jpg" width="200" height="200">
 
-<img src="https://static.mk.ru/upload/entities/2023/03/28/16/articles/facebookPicture/5b/c2/a9/9d/d04fea88c917dd3800b867ffd8061298.jpg" width="200" height="200">
-
+    <img src="https://static.mk.ru/upload/entities/2023/03/28/16/articles/facebookPicture/5b/c2/a9/9d/d04fea88c917dd3800b867ffd8061298.jpg" width="200" height="200">
+ </p>
 
 ##Еще один прекрасный город, в котором мне посчастливилось пожить - это _Владивосток_
 
@@ -69,5 +69,6 @@
 <img src="https://tripplanet.ru/wp-content/uploads/europe/russia/astrakhan/the-embankment.jpg" width="300" height="150">
 
 <img src="https://c1.staticflickr.com/9/8846/17050513783_64930fd273_b.jpg" width="300" height="150">
+
 
 
