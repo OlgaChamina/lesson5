@@ -12,23 +12,18 @@
   
  <p float="left">                                           
     <img src="https://static.tildacdn.com/tild6166-6338-4062-b536-333432653234/i.jpg" width="200" height="200">
-    <img src="http://i.mycdn.me/i?r=AzFIxPtkV78jcmdRfpoIOyaJZeowuqtABxERquk9f_rGUzO7EuABt8t6j6ROsg0SwU4" width="200" height="200">
-
-  </p>
-
-                                                          
- <p float="left">                                         
+    <img src="http://i.mycdn.me/i?r=AzFIxPtkV78jcmdRfpoIOyaJZeowuqtABxERquk9f_rGUzO7EuABt8t6j6ROsg0SwU4" width="200" height="200">                                       
     <img src="https://cs.pikabu.ru/post_img/big/2013/07/13/7/1373712017_1656637261.jpg" width="200" height="200">
     <img src="https://static.mk.ru/upload/entities/2023/03/28/16/articles/facebookPicture/5b/c2/a9/9d/d04fea88c917dd3800b867ffd8061298.jpg" width="200" height="200">
  </p>
 
 
-##Еще один прекрасный город, в котором мне посчастливилось пожить - это _Владивосток_
+## Еще один прекрасный город, в котором мне посчастливилось пожить - это _Владивосток_
 
 Край вечного солнца, ласковых волн и морских деликатесов.
 Мне кажется, **самые счастливые люди** живут именно здесь, видимо, из-за обилия солнечных дней - здесь их **269** в году. 
 
-Ещё этот край - рай для гурманов, столько доступных морских деликатесов нет, наверное, нигде.
+#### Ещё этот край - рай для гурманов, столько доступных морских деликатесов нет, наверное, нигде.
  
  Что нужно посмотреть в этом городе на берегу Тихого океана:
 
@@ -38,19 +33,22 @@
   - Прокатиться по Русскому мосту - на момент строительства он занимал первое место по длине руслового пролета среди вантовых мостов всего мира — 1104 метра
   
 
+<p float="left">
   <img src="https://cdn.fishki.net/upload/post/2018/10/01/2720454/0f284b70c0606d3194fc3f1a1ee30814f172461b.jpg" width="300" height="150">
-
-<img src="https://img.1tv.com/img/2021-07-19/fmt_96_24_1627036416_shutterstock_748468777.jpg" width="300" height="150">
+  <img src="https://img.1tv.com/img/2021-07-19/fmt_96_24_1627036416_shutterstock_748468777.jpg" width="300" height="150">
+</p>
 
 
                                                           
-                                          
-<img src="https://s11.stc.yc.kpcdn.net/share/i/12/11455468/wr-960.webp" width="300" height="150">
-
-<img src="https://sportishka.com/uploads/posts/2022-11/1667575671_7-sportishka-com-p-vantovii-most-na-ostrov-russkii-vkontakte-7.jpg" width="300" height="150">
+ <p float="left">                                         
+   <img src="https://s11.stc.yc.kpcdn.net/share/i/12/11455468/wr-960.webp" width="300" height="150">
+   <img src="https://sportishka.com/uploads/posts/2022-11/1667575671_7-sportishka-com-p-vantovii-most-na-ostrov-russkii-vkontakte-7.jpg" width="300" height="150">
+ </p>
 
 ## Город-музей Астрахань
-Жемчужина на Волге, гуляя по этому городу, иногда не понимаешь в каком веке ты находишься, и вкаком городе - это,  кук-будто, и одесские дворики, с другой стороны - изысканная архитектура Питера, восточные рынки с разными вкусностями и пряностями. Город неожиданных открытий и контрастов.
+Жемчужина на Волге, гуляя по этому городу, иногда не понимаешь в каком веке ты находишься, и вкаком городе - это,  кук-будто, и одесские дворики, с другой стороны - изысканная архитектура Питера, восточные рынки с разными вкусностями и пряностями. 
+
+#####_Город неожиданных открытий и контрастов._
 
 Самое интересное, на мой взгляд, это:
 
@@ -59,16 +57,17 @@
  - Превосходная набережная реки Волги
  - Сходить на рыбный рынок - вволю напробоваться всяких вкусностей.
 
-<img src="https://static.tildacdn.com/tild6264-3466-4939-b933-396233623036/3314980.jpg" width="300" height="150">
 
-<img src="http://magazin-1.com/uploads/photo/15162/89c2a4ee349e66fd6ba4be7eaf22300f.jpg" width="300" height="150">
-
+<p float="left">
+  <img src="https://static.tildacdn.com/tild6264-3466-4939-b933-396233623036/3314980.jpg" width="300" height="150">
+  <img src="http://magazin-1.com/uploads/photo/15162/89c2a4ee349e66fd6ba4be7eaf22300f.jpg" width="300" height="150">
+</p>
 
                                                           
-                                          
-<img src="https://tripplanet.ru/wp-content/uploads/europe/russia/astrakhan/the-embankment.jpg" width="300" height="150">
-
-<img src="https://c1.staticflickr.com/9/8846/17050513783_64930fd273_b.jpg" width="300" height="150">
+<p float="left">                                         
+  <img src="https://tripplanet.ru/wp-content/uploads/europe/russia/astrakhan/the-embankment.jpg" width="300" height="150">
+  <img src="https://c1.staticflickr.com/9/8846/17050513783_64930fd273_b.jpg" width="300" height="150">
+</p>
 
 
 
