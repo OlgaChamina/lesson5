@@ -16,3 +16,7 @@
 
 <img src="http://i.mycdn.me/i?r=AzFIxPtkV78jcmdRfpoIOyaJZeowuqtABxERquk9f_rGUzO7EuABt8t6j6ROsg0SwU4" width="200" height="200">
 
+<img src="https://cs.pikabu.ru/post_img/big/2013/07/13/7/1373712017_1656637261.jpg" width="200" height="200">
+
+<img src="https://static.mk.ru/upload/entities/2023/03/28/16/articles/facebookPicture/5b/c2/a9/9d/d04fea88c917dd3800b867ffd8061298.jpg" width="200" height="200">
+
